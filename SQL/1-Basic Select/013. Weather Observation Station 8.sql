@@ -2,6 +2,7 @@
 -- # Score: 15
 
 
-SELECT DISTINCT CITY
+SELECT DISTINCT CITY 
 FROM STATION
-WHERE REGEXP_LIKE(City, '^[AEIOU].*[aeiou]$');
+WHERE LOWER(LEFT(CITY,1)) in ('a','e','i','o','u') 
+and LOWER(RIGHT(CITY,1)) in ('a','e','i','o','u')
