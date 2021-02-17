@@ -8,3 +8,4 @@ Hackerrank Virtual Contest
 - Select By ID |[Problem](https://www.hackerrank.com/challenges/select-by-id/problem)| [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/004.%20Select%20By%20ID.sql)
 - Japanese Cities' Attributes |[Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)| [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/005.%20Japanese%20Cities'%20Attributes.sql)
 - Japanese Cities' Names |[Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/006.%20Japanese%20Cities'%20Names.sql)
+- Weather Observation Station 1 |[Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/007.%20Weather%20Observation%20Station%201.sql)
