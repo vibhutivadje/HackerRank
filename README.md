@@ -19,3 +19,4 @@ Hackerrank Virtual Contest
 - Weather Observation Station 10 |[Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/015.%20Weather%20Observation%20Station%2010.sql)
 - Weather Observation Station 11 |[Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/016.%20Weather%20Observation%20Station%2011.sql)
 - Weather Observation Station 12 |[Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/017.%20Weather%20Observation%20Station%2012.sql)
+- Higher Than 75 Marks |[Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
