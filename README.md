@@ -23,3 +23,5 @@ i) Basic Select
 - Higher Than 75 Marks |[Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/018.%20Higher%20Than%2075%20Marks.sql)
 - Employee Names |[Problem](https://www.hackerrank.com/challenges/name-of-employees/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/019.%20Employee%20Names.sql)
 - Employee Salaries |[Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/020.%20Employee%20Salaries.sql)
+ii) Advanced Select 
+- Type of Triangle |[Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/020.%20Employee%20Salaries.sql)
