@@ -21,7 +21,7 @@ i) Basic Select
 - Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/016.%20Weather%20Observation%20Station%2011.sql)
 - Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/017.%20Weather%20Observation%20Station%2012.sql)
 - Higher Than 75 Marks | [Problem] (https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/018.%20Higher%20Than%2075%20Marks.sql)
-- Employee Names | [Problem] (https://www.hackerrank.com/challenges/name-of-employees/problem)|[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/019.%20Employee%20Names.sql)
+- Employee Names | [Problem] (https://www.hackerrank.com/challenges/name-of-employees/problem) |[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/019.%20Employee%20Names.sql)
 - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)| [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/1-Basic%20Select/020.%20Employee%20Salaries.sql)
 <br>
 ii) Advanced Select 
