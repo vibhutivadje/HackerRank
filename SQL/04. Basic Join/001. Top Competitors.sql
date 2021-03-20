@@ -1,3 +1,5 @@
+-- # Problem: https://www.hackerrank.com/challenges/full-score/problem
+-- # Score: 10
 SELECT 
      h.hacker_id,
      h.name
