@@ -28,5 +28,6 @@ ii) Advanced Select
 <br>
 - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://www.hackerrank.com/challenges/what-type-of-triangle/submissions/code/198855862)
 <br>
+
 iii) Basic Join
 
