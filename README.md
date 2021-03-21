@@ -31,3 +31,4 @@ ii) Advanced Select
 
 iii) Basic Join
 - Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/001.%20Top%20Competitors.sql)
+- Asian Population | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/001.%20Top%20Competitors.sql)
