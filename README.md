@@ -30,5 +30,4 @@ ii) Advanced Select
 <br>
 
 iii) Basic Join
-- Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://www.hackerrank.com/challenges/what-type-of-triangle/submissions/code/198855862)
-
+- Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/001.%20Top%20Competitors.sql)
