@@ -26,7 +26,7 @@ i) Basic Select
 <br>
 ii) Advanced Select 
 
-- Type of Triangle | [Problem] (https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/2-Advanced%20Select/001.%20Type%20of%20Triangle.sql)
+- Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/2-Advanced%20Select/001.%20Type%20of%20Triangle.sql)
 <br>
 
 iii) Basic Join
