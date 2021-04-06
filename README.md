@@ -37,3 +37,4 @@ iii) Basic Join
 - Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/006.Ollivander's%20Invent.sqlory)
 
 iv) Aggregation
+- Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/001.%20Top%20Competitors.sql)
