@@ -36,4 +36,4 @@ iii) Basic Join
 - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/005.The%20Report.sql)
 - Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/3-Basic%20Join/006.Ollivander's%20Invent.sqlory)
 
-iv)
+iv) Aggregation
