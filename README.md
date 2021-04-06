@@ -38,4 +38,4 @@ iii) Basic Join
 
 iv) Aggregation
 - Revising Aggregations - The Count Function
-- Revising Aggregations
+- Revising Aggregations - The Sum Function
