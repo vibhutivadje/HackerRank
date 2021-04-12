@@ -38,5 +38,5 @@ iii) Basic Join
 
 iv) Aggregation
 - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-- Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) |
+- Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/002.%20Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
 - Revising Aggregations - Averages 
