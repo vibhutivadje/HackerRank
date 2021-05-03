@@ -42,4 +42,4 @@ iv) Aggregation
 - Revising Aggregations - Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/003.%20Revising%20Aggregations%20-%20Averages.sql)
 - Average Population | [Problem](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/004.%20Average%20Population.sql)
 - Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/005.%20Japan%20Population.sql)
-- Population Density Difference
+- Population Density Difference |
