@@ -45,4 +45,4 @@ iv) Aggregation
 - Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem) |[Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/006.%20Population%20Density%20Difference.sql)
 - The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/007.%20The%20Blunder.sql)
 - Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/008.%20Top%20Earners.sql)
-- Weather Observation Station 2 | 
+- Weather Observation Station 2 | []
