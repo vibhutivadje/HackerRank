@@ -46,4 +46,4 @@ iv) Aggregation
 - The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/007.%20The%20Blunder.sql)
 - Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/008.%20Top%20Earners.sql)
 - Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/009.%20Weather%20Observation%20Station%202.sql)
-- Weather Observation Station 13 |
+- Weather Observation Station 13 | []
