@@ -53,4 +53,4 @@ iv) Aggregation
 - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/014.%20Weather%20Observation%20Station%2017.sql)
 - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/015.%20Weather%20Observation%20Station%2018.sql)
 - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/vibhutivadje/HackerRank/blob/master/SQL/04.Aggregation/016.%20Weather%20Observation%20Station%2019.sql) 
-- Weather Observation Station 20 | [Problem]
+- Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) 
